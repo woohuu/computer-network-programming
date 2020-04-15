@@ -1,0 +1,1 @@
+int openFile(char *, char **);
